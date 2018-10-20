@@ -3,6 +3,8 @@
 #include <cmath>
 #include <iostream>
 
+// From https://github.com/mmp/pbrt-v3/blob/master/src/core/geometry.h
+
 // Vector Declarations
 template <typename T>
 class Vector2
